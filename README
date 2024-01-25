@@ -1,44 +1,43 @@
 # Adventure Works SQL Queries
 
-## Overview
+# Overview
 
 This repository contains SQL queries for the Adventure Works database. Adventure Works is a sample database provided by Microsoft that simulates a fictional bicycle company. The queries in this repository cover various aspects of database interactions, including data retrieval, modification, and analysis.
 
 ## Getting Started
 
-1. **Clone the Repository:**
-   ```bash
+1. Clone the Repository
+
    git clone https://github.com/Gideon-kipronoh/Adventure-works-sql-queries.git
-   ```
 
-2. **Database Setup:**
-   - Ensure you have access to the Adventure Works database. You can download it from the [Microsoft GitHub repository](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks).
 
-   - Attach the Adventure Works database to your SQL Server instance.
+2. Database Setup
+   Ensure you have access to the Adventure Works database. You can download it from the [Microsoft GitHub repository](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks).
+   Attach the Adventure Works database to your SQL Server instance.
 
-3. **Run Queries:**
-   - Open your preferred SQL Server query tool (e.g., SQL Server Management Studio, Azure Data Studio).
-   - Execute the queries from the repository on the Adventure Works database.
+3. Run Queries
+   Open your preferred SQL Server query tool (e.g., SQL Server Management Studio, Azure Data Studio).
+   Execute the queries from the repository on the Adventure Works database.
 
-## Query Categories
+Query Categories
 
-### 1. Data Retrieval
+1.Data Retrieval
 
-- `select_customers.sql`: Retrieve information about customers.
-- `select_products.sql`: Get details about the products in the Adventure Works catalog.
-- `select_orders.sql`: Fetch data related to customer orders.
+select_customers.sql- Retrieve information about customers.
+select_products.sql- Get details about the products in the Adventure Works catalog.
+select_orders.sql -Fetch data related to customer orders.
 
-### 2. Data Modification
+2. Data Modification
 
-- `update_prices.sql`: Update product prices based on certain criteria.
-- `insert_new_product.sql`: Add a new product to the catalog.
+update_prices.sql-Update product prices based on certain criteria.
+insert_new_product.sql-Add a new product to the catalog.
 
-### 3. Data Analysis
+3. Data Analysis
 
-- `sales_analysis.sql`: Analyze sales data to identify top-performing products and customers.
-- `order_statistics.sql`: Calculate various statistics related to orders.
+sales_analysis.sql- Analyze sales data to identify top-performing products and customers.
+order_statistics.sql-Calculate various statistics related to orders.
 
-## Contributing
+# Contributing
 
 Feel free to contribute additional queries or improvements. Follow these steps:
 
@@ -47,11 +46,11 @@ Feel free to contribute additional queries or improvements. Follow these steps:
 3. Make your modifications.
 4. Submit a pull request with a clear description of your changes.
 
-## Issues
+# Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/yourusername/adventure-works-sql-queries/issues) tab.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/Gideon-kipronoh/Adventure-works-sql-queries/issues) tab.
 
-## License
+# License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
 
